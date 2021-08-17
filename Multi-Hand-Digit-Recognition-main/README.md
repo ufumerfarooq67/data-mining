@@ -1,0 +1,2 @@
+# Artificial-Intelligence
+In this project, we have used CNN model to detect hand written multiple digits. The model has been trained on conventional MNIST dataset with 60,000 training data points and 10,000 test data points with accuracy of 98% and then through contour detecting method using OpenCV Library each contour is extracted from the image containing a digit and is passed to CNN Model to predict the particular digit.
